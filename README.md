@@ -1,4 +1,4 @@
-# MockLocationDetector
+Los Angeles California# MockLocationDetector
 An android library to help detect mock locations
 
 # Gradle
